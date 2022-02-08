@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NellyBlanquet
+- 👋 Hi, I’m Nelly Blanquet
 - 👀 I’m interested in climbing 🧗🏽‍♀️ and learning to programme 👩🏽‍💻
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on challenging and marvelous projects
-- 📫 How to reach me here 🤓
+- 📫 Reach me here 🤓
+
 
 <!---
 NellyBlanquet/NellyBlanquet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
